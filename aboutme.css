@@ -77,7 +77,9 @@ h2 {
 .social-icon {
   width: 1vw;
   height: auto;
-  padding: 1vw;
+  padding: 3vw;
+  display: inline-block;
+  float: left;
 }
 .picture {
 	width: 100%;
@@ -108,7 +110,7 @@ ul {
 .flag {
   width: 8vw;
   height: 6vw;
-  padding: 1vw;
+  padding: 1.5vw;
   float: right;
   position: relative;
   display: inline-block;
