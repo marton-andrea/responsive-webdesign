@@ -106,14 +106,14 @@ ul {
 }
   
 .flag {
-  width: 6vw;
-  height: 4vw;
+  width: 8vw;
+  height: 6vw;
   padding: 1vw;
   float: right;
   position: relative;
   display: inline-block;
-  top: -50px;
-  right: -10px;
+  top: -3rem;
+  right: -1rem;
 }
 
 /* Media queries */
@@ -125,6 +125,7 @@ ul {
 			height: 100%;
 			width: 33.3%;
 		}
+}
 @media (min-width: 768px) {
 
 	.primary-content {
@@ -148,4 +149,4 @@ ul {
 		position: absolute;
         left: 20.625%;
 	}
-  
+  }
