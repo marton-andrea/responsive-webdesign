@@ -113,15 +113,15 @@ li {
 }
   
 .flag {
-  width: 8vw;
-  height: 6vw;
-  padding: 1.5vw;
+  width: 12vw;
+  height: 10vw;
+  padding: 3vw;
   float: right;
   position: relative;
   display: inline-block;
   bottom: 5rem;
   right: 8rem;
-  top: 0.5rem;
+  top: 0rem;
   left: -1rem;
 }
 
